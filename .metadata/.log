@@ -2806,3 +2806,42 @@ Caused by: java.lang.NullPointerException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-22 16:23:10.835
 !MESSAGE executing callback sts4.classpath.BoNIoLLY SUCCESS [done]
+
+!ENTRY org.eclipse.equinox.security 1 0 2022-02-22 17:44:17.538
+!MESSAGE New keyring password generated. 
+
+!ENTRY org.eclipse.egit.core 4 0 2022-02-22 17:44:23.262
+!MESSAGE An exception occurred during push on URI https://github.com/javeed512/Java_Simplilearn.git: https://github.com/javeed512/Java_Simplilearn.git: not authorized
+!STACK 0
+org.eclipse.jgit.errors.TransportException: https://github.com/javeed512/Java_Simplilearn.git: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:570)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:466)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:160)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1367)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:191)
+	at org.eclipse.egit.ui.internal.push.ConfirmationPage$2.run(ConfirmationPage.java:211)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+
+!ENTRY org.eclipse.egit.core 4 0 2022-02-22 17:45:30.437
+!MESSAGE An exception occurred during push on URI https://github.com/javeed512/Java_Simplilearn.git: https://github.com/javeed512/Java_Simplilearn.git: not authorized
+!STACK 0
+org.eclipse.jgit.errors.TransportException: https://github.com/javeed512/Java_Simplilearn.git: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:570)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:466)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:160)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1367)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:191)
+	at org.eclipse.egit.ui.internal.push.ConfirmationPage$2.run(ConfirmationPage.java:211)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-22 17:53:55.944
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.BoNIoLLY
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-22 17:53:55.944
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.BoNIoLLY
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-22 17:53:55.944
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-22 17:53:55.944
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.BoNIoLLY => OK

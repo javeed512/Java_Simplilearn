@@ -10,7 +10,11 @@
 <fullyQualifiedTypeName name="com.mphasis.demo.PremitiveDemo"/>
 <fullyQualifiedTypeName name="com.mphasis.variables.Employee"/>
 <fullyQualifiedTypeName name="com.mphasis.abstraction.BankImp1"/>
-<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="com.mphasis.Demo"/>
 <fullyQualifiedTypeName name="com.mphasis.Demo.InnerDemo"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.methods.Employee"/>
+<fullyQualifiedTypeName name="com.methods.DifferentMethods"/>
+<fullyQualifiedTypeName name="java.util.regex.Pattern"/>
+<fullyQualifiedTypeName name="java.util.regex.Matcher"/>
 </qualifiedTypeNameHistroy>
