@@ -1,0 +1,21 @@
+package com.mphasis;
+
+public class Demo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+	
+	
+public	class  InnerDemo{
+		
+		 public void innerDemo() {
+			 
+			 System.out.println("demo from inner class");
+		 }
+		
+	}
+
+}

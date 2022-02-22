@@ -1,0 +1,33 @@
+package com.mphasis.demo;
+
+public class PremitiveDemo {
+	
+	int id;
+	String name;   //instance var
+	
+		public static void main(String[] args) {
+			
+			
+			int  x =100;
+			String str;
+	
+				System.out.println(x);
+			
+				PremitiveDemo   p = new PremitiveDemo();
+				
+				System.out.println(p.id);
+				System.out.println(p.name);
+			
+				p.add(4,3);
+			
+		}
+		
+		public int  add(int a,int b) {
+			
+			
+			return a+b;
+		}
+	
+	
+
+}

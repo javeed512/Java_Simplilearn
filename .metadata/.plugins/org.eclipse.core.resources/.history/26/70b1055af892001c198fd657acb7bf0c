@@ -1,0 +1,27 @@
+package com.mphasis.variables;
+
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		Employee  emp1  = new Employee(101, "tom", 50000);
+		
+		Employee emp = new Employee();
+		
+		Employee emp2 = new Employee(102,"javeed",30000);
+		
+		
+		//System.out.println(emp1.eid +" "+ emp1.ename +" "+ emp1.salary);
+		
+				emp1.setEid(111);
+		
+		//System.out.println(emp2.eid +" "+ emp2.ename +" "+ emp2.salary);
+		
+		System.out.println(emp1.getEid() +" "+emp1.getEname() +" "+emp1.getSalary());
+		System.out.println(emp2.getEid() +" "+emp2.getEname() +" "+emp2.getSalary());
+
+	}
+
+}
