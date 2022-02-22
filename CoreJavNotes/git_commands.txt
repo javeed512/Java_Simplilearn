@@ -1,0 +1,39 @@
+Git Commands:
+=============
+First time , we need to config username and email for github account to be connected by local repo.
+
+
+E:\CGI>git config  --global  user.email   javeedmohammedjaveed@gmail.com
+
+E:\CGI>git config  --global  user.name   javeed512
+
+
+
+-------------------------------------------------------------
+E:\CGI>git --version
+git version 2.34.1.windows.1
+
+E:\CGI>git  init
+Initialized empty Git repository in E:/CGI/.git/
+
+E:\CGI>git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+E:\CGI>git status
+On branch master
+
+No commits yet
+
+
+
+
+E:\CGI>git  remote  add   origin   https://github.com/javeed512/Java_Simplilearn.git
+
+
+
+E:\CGI>git  push  origin  master
