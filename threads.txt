@@ -1,0 +1,91 @@
+Errors: Asynchronous Exception , occur due to hardware failure.
+
+Ex: Insufficient RAM , MotherBoard failure
+
+Exceptions: Synchronous Exception , occur due to Logical Mistakes done by developers
+
+
+Note: All Types of Exceptions occur only at Runtime.
+
+ Synchronous Exception
+--------------------------
+1. Checked / Compile-time  Exception
+2. Unchecked / Run-time  Exception
+
+
+Exceptions will be throws from callee  to the caller.
+
+
+"100"   "200"   "300"   "javeed"
+
+100   200    300    
+
+
+
+
+-------------------------------------
+try{} 
+catch(){ }
+finally{}
+
+try{}
+catch(){}
+
+try{}
+finally{}
+
+
+
+try{}
+catch(NPE){}
+catch(AE){}
+catch(NFE){}
+finally{}
+
+----------------------------------------------------
+
+In Java , All methods are executed by threads 
+JVM will have its own thread  known as JVMs threads or Daemon thread (running in background always)
+
+
+class  Thread  implements Runnable{
+
+
+start(){
+
+	// set thread name
+	// set thread priority
+	// schedule thread execution time
+	// allocate mmy
+	// add to the thread group
+	// call run() to execute thread
+		td.run();
+
+
+}
+
+
+public void run(){
+		// empty impln
+
+}
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
