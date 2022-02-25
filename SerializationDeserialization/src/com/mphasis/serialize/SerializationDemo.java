@@ -13,12 +13,13 @@ public class SerializationDemo {
 	
 		
 		
-		//Employee employee = new Employee(101, "javeed", 50000);
+		//Employee employee = new Employee(102, "banerjee", 35000);
 		
 		
 		try {
 			
 			//serialization
+			
 			/*
 			 * FileOutputStream fos = new FileOutputStream("data.ser");
 			 * 
@@ -26,16 +27,21 @@ public class SerializationDemo {
 			 * 
 			 * oos.writeObject(employee);
 			 * 
-			 * System.out.println("Serialization done");
+			 * System.out.println("Below object Serialization done");
+			 * System.out.println(employee );
 			 */
+			 
 			// De-serialization
-			FileInputStream  fis = new FileInputStream("data.ser");
 			
-				ObjectInputStream ois = new ObjectInputStream(fis);
-				
-			Employee emp = (Employee)	ois.readObject();
+			  FileInputStream fis = new FileInputStream("data.ser");
+			  
+			  ObjectInputStream ois = new ObjectInputStream(fis);
+			  
 			
-			System.out.println(emp);
+			  Employee emp = (Employee) ois.readObject();
+			  
+			  System.out.println(emp);
+			 
 			
 		} catch (FileNotFoundException e) {
 			// TODO Auto-generated catch block
@@ -43,11 +49,10 @@ public class SerializationDemo {
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-		} catch (ClassNotFoundException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-		
+		} 
+			  catch (ClassNotFoundException e) { // TODO Auto-generated catch block
+			  e.printStackTrace(); }
+			 
 		
 
 	}

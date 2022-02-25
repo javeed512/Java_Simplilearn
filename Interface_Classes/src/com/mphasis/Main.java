@@ -7,7 +7,7 @@ public class Main {
 
 	public static void main(String[] args) {
 
-			Object o = new Child(); // runtime polymorphism
+			Object o =(Object) new Child(); //upcasting // runtime polymorphism
 		
 		Parent p = new Parent();
 		
@@ -15,7 +15,7 @@ public class Main {
 		
 		//Child  c = new Child();
 		
-		Child c = (Child) o;
+		Child c = (Child) o; //down casting
 		
 		System.out.println(c);
 		
@@ -25,6 +25,16 @@ public class Main {
 		Object obj = str;
 		
 		String str2 =(String)obj;
+		
+		
+		
+		
+		Parent p1 = new Parent();
+		
+		p1.m1();
+		
+		
+		
 		
 		
 		

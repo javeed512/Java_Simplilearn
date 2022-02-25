@@ -7,5 +7,7 @@ public interface IBank { // specification - devs
 	public void deposit(); 
 	public void withdraw(); 
 	
+	
+	//default methods and static methods in interface java1.8
 
 }
