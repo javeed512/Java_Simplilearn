@@ -34,4 +34,10 @@
 <fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
 <fullyQualifiedTypeName name="java.io.FileInputStream"/>
 <fullyQualifiedTypeName name="java.io.ObjectInputStream"/>
+<fullyQualifiedTypeName name="com.mphasis.vehicle.Laptop"/>
+<fullyQualifiedTypeName name="com.mphasis.vehicle.KingstonHD"/>
+<fullyQualifiedTypeName name="com.mphasis.vehicle.Samsung"/>
+<fullyQualifiedTypeName name="com.mphasis.vehicle.HardDisk"/>
+<fullyQualifiedTypeName name="com.mphasis.diamond.TestImp"/>
+<fullyQualifiedTypeName name="com.mphasis.diamond.First"/>
 </qualifiedTypeNameHistroy>
