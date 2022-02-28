@@ -79,6 +79,10 @@ public class DoublyLinkedList {
 			
 			dll.insertAfter(dll.head.next, 10);
 			dll.printlist(dll.head);
+			
+			
+			
+			
 
 	}
 

@@ -8384,3 +8384,300 @@ Caused by: java.lang.NullPointerException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 15:39:42.279
 !MESSAGE executing callback sts4.classpath.XTroEnDa SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:09:22.039
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.XTroEnDa
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:09:22.040
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.XTroEnDa
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:09:22.041
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:09:22.041
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.XTroEnDa => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:23.957
+!MESSAGE Boot LS startup time from start to initialized: 5662ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.055
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.tLWjxmsXisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.056
+!MESSAGE subscribing to classpath changes: sts4.classpath.tLWjxmsX isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.056
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.057
+!MESSAGE subsribers = {sts4.classpath.tLWjxmsX=Send Classpath Notifications(1382)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.058
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.059
+!MESSAGE project StackDemo ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.060
+!MESSAGE project Abstract_Demo ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.060
+!MESSAGE project Abstraction ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.061
+!MESSAGE project ArraysDemo ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.061
+!MESSAGE project CircularList ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.063
+!MESSAGE project ClassObjectDemo ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.065
+!MESSAGE project DiamondProblem ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.066
+!MESSAGE project DoublyLinkedList ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.066
+!MESSAGE Preparing classpath changed notification StackDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.066
+!MESSAGE project ExceptionDemos ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.068
+!MESSAGE project FileHandling ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.069
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.069
+!MESSAGE project Interface_Classes ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.070
+!MESSAGE project Methods_Constructors ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.070
+!MESSAGE project MultiThreadingDemos ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.071
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.071
+!MESSAGE project SerializationDeserialization ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.072
+!MESSAGE buffering callback sts4.classpath.tLWjxmsX StackDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.073
+!MESSAGE project SinglyLinkedList ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.073
+!MESSAGE Preparing classpath changed notification Abstract_Demo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.073
+!MESSAGE project StringDemos ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.074
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.075
+!MESSAGE project VariableTypes ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.075
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.076
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.tLWjxmsX => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.076
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.077
+!MESSAGE buffering callback sts4.classpath.tLWjxmsX Abstract_Demo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.078
+!MESSAGE Preparing classpath changed notification Abstraction
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.078
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.080
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.081
+!MESSAGE buffering callback sts4.classpath.tLWjxmsX Abstraction false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.082
+!MESSAGE Preparing classpath changed notification ArraysDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.082
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.085
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.085
+!MESSAGE buffering callback sts4.classpath.tLWjxmsX ArraysDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.086
+!MESSAGE Preparing classpath changed notification CircularList
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.086
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.088
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.089
+!MESSAGE buffering callback sts4.classpath.tLWjxmsX CircularList false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.089
+!MESSAGE Preparing classpath changed notification ClassObjectDemo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.090
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.092
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.094
+!MESSAGE buffering callback sts4.classpath.tLWjxmsX ClassObjectDemo false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.095
+!MESSAGE Preparing classpath changed notification DiamondProblem
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.095
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.097
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.098
+!MESSAGE buffering callback sts4.classpath.tLWjxmsX DiamondProblem false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.099
+!MESSAGE Preparing classpath changed notification DoublyLinkedList
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.099
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.102
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.102
+!MESSAGE buffering callback sts4.classpath.tLWjxmsX DoublyLinkedList false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.103
+!MESSAGE Preparing classpath changed notification ExceptionDemos
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.103
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.105
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.106
+!MESSAGE buffering callback sts4.classpath.tLWjxmsX ExceptionDemos false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.106
+!MESSAGE Preparing classpath changed notification FileHandling
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.107
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.109
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.109
+!MESSAGE buffering callback sts4.classpath.tLWjxmsX FileHandling false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.110
+!MESSAGE Preparing classpath changed notification Interface_Classes
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.111
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.113
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.113
+!MESSAGE buffering callback sts4.classpath.tLWjxmsX Interface_Classes false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.114
+!MESSAGE Preparing classpath changed notification Methods_Constructors
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.114
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.117
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.117
+!MESSAGE buffering callback sts4.classpath.tLWjxmsX Methods_Constructors false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.118
+!MESSAGE Preparing classpath changed notification MultiThreadingDemos
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.118
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.121
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.121
+!MESSAGE buffering callback sts4.classpath.tLWjxmsX MultiThreadingDemos false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.122
+!MESSAGE Preparing classpath changed notification SerializationDeserialization
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.123
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.125
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.126
+!MESSAGE buffering callback sts4.classpath.tLWjxmsX SerializationDeserialization false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.126
+!MESSAGE Preparing classpath changed notification SinglyLinkedList
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.127
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.132
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.133
+!MESSAGE buffering callback sts4.classpath.tLWjxmsX SinglyLinkedList false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.134
+!MESSAGE Preparing classpath changed notification StringDemos
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.135
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.137
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.138
+!MESSAGE buffering callback sts4.classpath.tLWjxmsX StringDemos false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.139
+!MESSAGE Preparing classpath changed notification VariableTypes
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.140
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.142
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.143
+!MESSAGE buffering callback sts4.classpath.tLWjxmsX VariableTypes false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.143
+!MESSAGE executing callback sts4.classpath.tLWjxmsX 17 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-28 16:17:24.469
+!MESSAGE executing callback sts4.classpath.tLWjxmsX SUCCESS [done]
