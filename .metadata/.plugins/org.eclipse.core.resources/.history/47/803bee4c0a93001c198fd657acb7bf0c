@@ -1,8 +1,0 @@
-package com.mphasis;
-
-public interface Interface1 {
-	
-	
-	 void  oneMethod();
-
-}

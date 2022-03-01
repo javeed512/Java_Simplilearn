@@ -40,4 +40,9 @@
 <fullyQualifiedTypeName name="com.mphasis.vehicle.HardDisk"/>
 <fullyQualifiedTypeName name="com.mphasis.diamond.TestImp"/>
 <fullyQualifiedTypeName name="com.mphasis.diamond.First"/>
+<fullyQualifiedTypeName name="com.mphasis.singly.LinkedList"/>
+<fullyQualifiedTypeName name="com.mphasis.doubly.DoublyLinkedList"/>
+<fullyQualifiedTypeName name="com.mphasis.stack.Stack"/>
+<fullyQualifiedTypeName name="java.util.LinkedList"/>
+<fullyQualifiedTypeName name="com.mphasis.queue.LinkedList"/>
 </qualifiedTypeNameHistroy>
