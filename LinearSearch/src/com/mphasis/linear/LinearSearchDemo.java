@@ -7,7 +7,7 @@ public class LinearSearchDemo {
 	public static void main(String[] args) {
 
 
-		int arr[] = {30,10,40,20,50};
+		int arr[] = {30,10,40,20,50,10};
 		
 		System.out.println("Enter key for linear search");
 		Scanner  scanner = new Scanner(System.in);
@@ -44,6 +44,7 @@ public class LinearSearchDemo {
 				if(arr[i] == key) { // if key found in given array
 					
 					index = i;   // index value will update
+					break;
 				}
 				
 				

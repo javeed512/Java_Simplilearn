@@ -1,5 +1,6 @@
 package com.mphasis.linear;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class BinarySearchDemo {
@@ -17,8 +18,11 @@ public class BinarySearchDemo {
 		System.out.println("Enter key for Binary search");
 		int key = scanner.nextInt();
 		
-			binarySearch(arr, start, key, length);
+			//binarySearch(arr, start, key, length);  // custom binary logic
+		
+	int  index =	Arrays.binarySearch(arr, key); // predefine binary logic
 
+			System.out.println("Element found at index "+index);
 	}
 	
 	
