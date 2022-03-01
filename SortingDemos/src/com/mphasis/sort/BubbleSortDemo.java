@@ -6,7 +6,9 @@ public class BubbleSortDemo {
 
 		int arr[] = { 2, 7, 4, 3, 9, 12, 7,10 };
 
-		bubbleSort(arr);
+		//bubbleSort(arr);
+		
+		
 
 		System.out.println("Elements after BubbleSort");
 
