@@ -7,7 +7,7 @@ public class LinearSearchDemo {
 	public static void main(String[] args) {
 
 
-		int arr[] = {10,20,30,40,50};
+		int arr[] = {30,10,40,20,50};
 		
 		System.out.println("Enter key for linear search");
 		Scanner  scanner = new Scanner(System.in);
